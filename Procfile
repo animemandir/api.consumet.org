@@ -1,1 +1,1 @@
-web: yarn install && yarn build && node dist/main.js
+web: pnpm install && pnpm build && node dist/main.js
